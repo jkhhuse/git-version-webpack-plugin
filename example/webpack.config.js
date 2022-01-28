@@ -1,5 +1,5 @@
 const path = require('path');
-const GitVersionWebpackPlugin = require('../src');
+const GitVersionWebpackPlugin = require('@cmss/git-version-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {

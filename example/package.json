@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "@cmss/git-version-webpack-plugin": "^1.0.1"
+  },
   "devDependencies": {
     "html-webpack-plugin": "^4.5.2",
     "webpack": "^4.46.0"
